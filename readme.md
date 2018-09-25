@@ -1,13 +1,15 @@
 # Patrick Dolloso - Github Portfolio
 
-## Overview
-
-This is a github master navigator and repository to showcase my current and past work.
+## Sample Portfolio
 
 ![alt text](https://github.com/patrickdolloso/Portfolio/blob/master/images/Patrick%20Dolloso%20Sample%20Portfolio.jpg?raw=true)
 
-[PDF download - Sample Portfolio](https://github.com/patrickdolloso/Portfolio/blob/master/files/Patrick%20Dolloso%20Portfolio.pdf)
+[PDF download - Sample Portfolio](https://patrickdolloso.files.wordpress.com/2018/09/patrick-dolloso-portfolio.pdf)
 <br>[PDF download - Resume](#)
+
+## Overview
+
+This is a github master navigator and repository to showcase my current and past work.
 
 ## Details
 * Last updated: Sep 25 2018
