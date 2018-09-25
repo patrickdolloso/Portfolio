@@ -4,7 +4,10 @@
 
 This is a github master navigator and repository to showcase my current and past work.
 
-[PDF download - Sample Portfolio](#)
+![alt text](#)
+
+[PDF download - Sample Portfolio](https://github.com/patrickdolloso/Portfolio/blob/master/files/Patrick%20Dolloso%20Portfolio.pdf)
+<br>[PDF download - Resume](#)
 
 ## Details
 * Last updated: Sep 25 2018
