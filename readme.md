@@ -2,10 +2,10 @@
 
 ## Sample Portfolio
 
-![alt text](https://github.com/patrickdolloso/Portfolio/blob/master/images/Patrick%20Dolloso%20Sample%20Portfolio.jpg?raw=true)
-
 [PDF download - Sample Portfolio](https://patrickdolloso.files.wordpress.com/2018/09/patrick-dolloso-portfolio.pdf)
-<br>[PDF download - Resume](#)
+<br>
+
+![alt text](https://github.com/patrickdolloso/Portfolio/blob/master/images/Patrick%20Dolloso%20Sample%20Portfolio.jpg?raw=true)
 
 ## Overview
 
