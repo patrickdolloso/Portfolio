@@ -8,6 +8,23 @@
 
 </center>
 
+## Skills & Coursework
+
+Engineering & Science | Programming | Math | Business / Finance
+--------|-------|----- |--- 
+3D AutoCad & Solidworks | Python | Statistics & Probability | IFRS Accounting 
+Thermodynamics | SQL | MATLAB | Excel Macro & VBA  
+Electric Circuits | C++/C# | Monte Carlo Modeling| Macro/Microeconomics
+Computational Fluid Dynamics (CFD) | HTML & CSS | R Statistics Software
+Nuclear Physics | Javascript | Data Structures & Discrete Math| 
+MCNP Simulations | Java & Android Development | Multivariable Calculus
+
+[Degree: Dual Bachelors of Engineering & Managment (Nuclear Engineering specialization)](https://patrickdolloso.wordpress.com/education/)
+
+![Image of Degree](https://patrickdolloso.files.wordpress.com/2018/09/patrick-dolloso-degree-scan-b-eng-mgmt.jpg?w=768)
+
+*Canada’s only CEAB Accredited Engineering bachelor’s program (nuclear engineering specialization) combined with full coursework in Business Management (5 year program + 1 Internship year).*
+
 ## Sample Portfolio
 
 [Click for PDF download - Sample Portfolio](https://patrickdolloso.files.wordpress.com/2018/09/patrick-dolloso-portfolio.pdf)
@@ -25,4 +42,3 @@ This is a github master navigator and repository to showcase my current and past
 * Distribution: Public
 * Location:
 [github.com/patrickdolloso/portfolio](https://github.com/patrickdolloso/Portfolio)
-
