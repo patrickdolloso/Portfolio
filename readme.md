@@ -1,7 +1,8 @@
 # Patrick Dolloso - Github Portfolio
 
-## Welcome!
+## <center> Welcome!
 ![alt text](https://github.com/patrickdolloso/Portfolio/blob/master/images/gifs/ISS%20CAD%20gif.gif?raw=true)
+</center>
 
 ## Sample Portfolio
 
