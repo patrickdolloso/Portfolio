@@ -1,11 +1,7 @@
-# Patrick Dolloso - Github Portfolio
+# Patrick Dolloso - Github Portfolio: Welcome!
 
-<center>
-
-## Welcome!
 ![alt text](https://github.com/patrickdolloso/Portfolio/blob/master/images/gifs/ISS%20CAD%20gif.gif?raw=true)
 
-</center>
 
 ## Sample Portfolio
 
@@ -25,5 +21,3 @@ This is a github master navigator and repository to showcase my current and past
 * Location:
 [github.com/patrickdolloso/portfolio](https://github.com/patrickdolloso/Portfolio)
 
-## Table of Contents
-* Test
