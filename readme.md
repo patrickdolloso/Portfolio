@@ -19,7 +19,9 @@ Computational Fluid Dynamics (CFD) | HTML & CSS | R Statistics Software
 Nuclear Physics | Javascript | Data Structures & Discrete Math| 
 MCNP Simulations | Java & Android Development | Multivariable Calculus
 
-[Degree: Dual Bachelors of Engineering & Managment (Nuclear Engineering specialization)](https://patrickdolloso.wordpress.com/education/)
+Degree: Dual Bachelors of Engineering & Managment (Nuclear Engineering specialization)
+<br>
+[Click for full list of courses taken](https://patrickdolloso.wordpress.com/education/)
 
 ![Image of Degree](https://patrickdolloso.files.wordpress.com/2018/09/patrick-dolloso-degree-scan-b-eng-mgmt.jpg?w=768)
 
