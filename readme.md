@@ -6,7 +6,7 @@ If a picture is worth a thousand words, then my goal is to use data visualizatio
 
 ![alt text](https://github.com/patrickdolloso/Portfolio/blob/master/images/gifs/ISS%20CAD%20gif.gif?raw=true)
 
-<br/><b>CAD model of the International Space Station for space radiation simulation work I did for the Canadian Space Agency during exchange in the University of Cologne in Germany</b> (Published in the world-renounded WRMISS scientific journal (2nd paper): [http://www.wrmiss.org/workshops/twentieth/](http://www.wrmiss.org/workshops/twentieth/))
+<br/><b>CAD model of the International Space Station for space radiation simulation work I did for the Canadian Space Agency during exchange at the University of Cologne in Germany</b> (Published in the world-renounded WRMISS scientific journal (2nd paper): [http://www.wrmiss.org/workshops/twentieth/](http://www.wrmiss.org/workshops/twentieth/))
 
 ![alt text](https://github.com/patrickdolloso/Portfolio/blob/master/images/gifs/BION%20CAD%20gif.gif?raw=true)
 
