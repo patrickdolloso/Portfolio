@@ -1,5 +1,11 @@
-# Patrick Dolloso - Engineering Portfolio
+## Patrick Dolloso - Engineering & Simulation Portfolio
+A passionate lifelong-learner in all things technical, innovative, and challenging with diverse engineering & technical consulting experience with Fortune-500 megaprojects, space research for the International Space Station, and banking & finance with a big-4 bank in Canada using the best available software tools & technologies to develop data-driven predictive models & simulations.
 
+My Dual Engineering & Business Management degree combined with a diverse skill set of programming languages and globally-recognized project management certifications provided me with unique skills and competitive advantages to apply value-added science-backed solutions to multi-billion-dollar projects.
+
+To-date, I have published 7 peer reviewed scientific papers in world-renowned scientific journals & conferences such as: WRMISS (Workshops on Radiation Monitoring for the International Space Station), Elsevier, International Journal of Hydrogen Energy, and the Canadian Nuclear Society: https://uoit.academia.edu/PatrickDolloso
+
+If a picture is worth a thousand words, then my goal is to use data visualiztion to combine thousands of pictures 
 <center>
 
 ![alt text](https://github.com/patrickdolloso/Portfolio/blob/master/images/gifs/ISS%20CAD%20gif.gif?raw=true)
@@ -7,14 +13,16 @@
 ![alt text](https://github.com/patrickdolloso/Portfolio/blob/master/images/gifs/BION%20CAD%20gif.gif)
 </center>
 
-## Sample Portfolio
+
+
+### Sample Portfolio
 
 [Click for PDF download - Sample Portfolio](https://patrickdolloso.files.wordpress.com/2018/09/patrick-dolloso-portfolio.pdf)
 <br>
 
 ![alt text](https://github.com/patrickdolloso/Portfolio/blob/master/images/Patrick%20Dolloso%20Sample%20Portfolio.jpg?raw=true)
 
-## Skills & Coursework
+### Skills & Coursework
 
 Engineering & Science | Programming | Math | Business / Finance
 --------|-------|----- |--- 
@@ -33,11 +41,11 @@ Degree: Dual Bachelors of Engineering & Managment (Nuclear Engineering specializ
 
 *Canada’s only CEAB Accredited Engineering bachelor’s program (nuclear engineering specialization) combined with full coursework in Business Management (5 year program + 1 Internship year).*
 
-## Overview
+### Overview
 
 This is a github master navigator and repository to showcase my current and past work.
 
-## Details
+### Details
 * Last updated: Sep 25 2018
 * Version 1.0
 * Distribution: Public
