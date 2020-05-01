@@ -10,7 +10,7 @@ If a picture is worth a thousand words, then my goal is to use data visualizatio
 
 ![alt text](https://github.com/patrickdolloso/Portfolio/blob/master/images/gifs/BION%20CAD%20gif.gif?raw=true)
 
-<br/><b>CAD model for of the Russian recoverable satelight Space for space radiation simulation I did for the ESC ENERGIA Rocketspace Corporation in Russia</b>
+<br/><b>CAD model for of the Russian recoverable satelight for space radiation simulation I did for the ESC ENERGIA Rocketspace Corporation in Russia</b>
 
 My Dual Engineering & Business Management degree combined with a diverse skill set of programming languages and globally-recognized project management certifications provided me with unique skills and competitive advantages to apply value-added science-backed solutions to multi-billion-dollar projects.
 
