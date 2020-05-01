@@ -4,10 +4,12 @@ A passionate lifelong-learner in all things technical, innovative, and challengi
 If a picture is worth a thousand words, then my goal is to use data visualization to combine thousands of pictures 
 <center>
 
+<b>CAD model of the International Space Station for space radiation simulation work I did for the Canadian Space Agency during exchange in the University of Cologne in Germany</b>
 ![alt text](https://github.com/patrickdolloso/Portfolio/blob/master/images/gifs/ISS%20CAD%20gif.gif?raw=true)
+* Published in the world-renounded WRMISS scientific journal (2nd paper): [http://www.wrmiss.org/workshops/twentieth/](http://www.wrmiss.org/workshops/twentieth/)
 
-![alt text](https://github.com/patrickdolloso/Portfolio/blob/master/images/gifs/BION%20CAD%20gif.gif)
-</center>
+<b>CAD model for of the Russian recoverable satelight Space for space radiation simulation I did for the ESC ENERGIA Rocketspace Corporation in Russia</b>
+* Published in the world-renounded WRMISS publication: [http://www.wrmiss.org/workshops/twentieth/](http://www.wrmiss.org/workshops/twentieth/)
 
 My Dual Engineering & Business Management degree combined with a diverse skill set of programming languages and globally-recognized project management certifications provided me with unique skills and competitive advantages to apply value-added science-backed solutions to multi-billion-dollar projects.
 
