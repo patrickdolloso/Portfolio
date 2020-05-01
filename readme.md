@@ -1,10 +1,4 @@
-# Patrick Dolloso - Github Portfolio
-
-Welcome! <br>
-My name is Patrick Dolloso. <br>
-I am a lifelong learner, passionate in all things technical and challenging. <br>
-I recently graduated with my dual Bachelor's in Engineering & Management (Honors), Nuclear Engineering from the University of Ontario Institute of Technology in Canada. <br>
-I can be contacted at: patrick.dolloso@gmail.com. <br>Thank you for  stopping by and kindest regards,<br>Patrick
+# Patrick Dolloso - Engineering Portfolio
 
 <center>
 
