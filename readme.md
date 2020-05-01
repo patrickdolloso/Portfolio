@@ -13,6 +13,13 @@ I can be contacted at: patrick.dolloso@gmail.com. <br>Thank you for  stopping by
 ![alt text](https://github.com/patrickdolloso/Portfolio/blob/master/images/gifs/BION%20CAD%20gif.gif)
 </center>
 
+## Sample Portfolio
+
+[Click for PDF download - Sample Portfolio](https://patrickdolloso.files.wordpress.com/2018/09/patrick-dolloso-portfolio.pdf)
+<br>
+
+![alt text](https://github.com/patrickdolloso/Portfolio/blob/master/images/Patrick%20Dolloso%20Sample%20Portfolio.jpg?raw=true)
+
 ## Skills & Coursework
 
 Engineering & Science | Programming | Math | Business / Finance
@@ -31,13 +38,6 @@ Degree: Dual Bachelors of Engineering & Managment (Nuclear Engineering specializ
 ![Image of Degree](https://patrickdolloso.files.wordpress.com/2018/09/patrick-dolloso-degree-scan-b-eng-mgmt.jpg?w=768)
 
 *Canada’s only CEAB Accredited Engineering bachelor’s program (nuclear engineering specialization) combined with full coursework in Business Management (5 year program + 1 Internship year).*
-
-## Sample Portfolio
-
-[Click for PDF download - Sample Portfolio](https://patrickdolloso.files.wordpress.com/2018/09/patrick-dolloso-portfolio.pdf)
-<br>
-
-![alt text](https://github.com/patrickdolloso/Portfolio/blob/master/images/Patrick%20Dolloso%20Sample%20Portfolio.jpg?raw=true)
 
 ## Overview
 
